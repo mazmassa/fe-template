@@ -1,0 +1,32 @@
+.node {
+  display: flex;
+}
+
+.details {
+  flex: 40%;
+  padding: 45px;
+  border-radius: 8px;
+}
+
+.content {
+  flex: 60%;
+  padding: 20px;
+  border-radius: 8px;
+  margin-bottom: 10px;
+}
+
+.title {
+  font-size: 30px;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+
+.subtitle {
+  margin-bottom: 10px;
+}
+
+.details-title {
+  font-size: 20px;
+  font-weight: 500;
+  padding-bottom: 15px;
+}

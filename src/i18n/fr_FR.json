@@ -1,0 +1,14 @@
+{
+  "form": {
+    "submit": "envoyer"
+  },
+  "store": {
+    "loading": "loooooading..."
+  },
+  "menu": {
+    "home": "départ",
+    "nodes": "nœuds",
+    "dont": "ne le faites pas..."
+  },
+  "new": "nouveau"
+}

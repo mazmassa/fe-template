@@ -1,0 +1,14 @@
+{
+  "form": {
+    "submit": "submit"
+  },
+  "store": {
+    "loading": "loooooading..."
+  },
+  "menu": {
+    "home": "home",
+    "nodes": "nodes",
+    "dont": "don't..."
+  },
+  "new": "new"
+}

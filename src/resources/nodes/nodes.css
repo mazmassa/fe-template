@@ -1,0 +1,13 @@
+.nodes {
+  color: #4e4e4e;
+  display: flex;
+}
+
+.left {
+  flex: 25%;
+  max-width: 70px;
+}
+
+.right {
+  flex: 75%;
+}

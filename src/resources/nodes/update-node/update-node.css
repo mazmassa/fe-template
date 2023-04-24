@@ -1,0 +1,21 @@
+.update-node {
+  padding: 17px;
+}
+
+.title {
+  margin-bottom: 10px;
+}
+
+.details {
+  flex: 40%;
+  padding: 45px;
+}
+
+.input {
+  margin-bottom: 15px;
+  max-width: 300px;
+}
+
+.submit {
+  max-width: 300px;
+}
